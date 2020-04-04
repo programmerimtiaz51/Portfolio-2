@@ -1,0 +1,39 @@
+body{font-family:sans-serif;color:#777;line-height:30px;}
+.container{
+	padding-left:5%;
+	display:inline-block;
+}
+.half-width{
+	width:50%;
+	float:left;
+}
+.purple-color{
+	color:purple;
+}
+.primary-btn {
+    background: purple;
+    color: white;
+    text-decoration: none;
+    padding: 13px 42px 13px 42px;
+    border-radius: 20px;
+}
+.half-imgwidth{
+	width:50%;
+	float:right;
+}
+.side-img {
+    width: 50%;
+    margin-left: 25%;
+}
+.experience{
+	padding:30px;
+	margin:30px;
+	background-color:rgb(226,245,251);
+	border-radius:20px;
+}
+.experience-item{
+	padding:10px;
+	border-left:1px solid rgb(146,115,254);
+	border-bottom:1px solid rgb(146,115,254);
+}
+.experience-item:last-child{border-bottom:0px solid rgb(146,115,254);}
